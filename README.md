@@ -1,6 +1,6 @@
 # CU-CSE
 This is my first project
 <br>
-Author-Shobhit
+Name-Shobhit
 <br>
 UID-21BCS7180
